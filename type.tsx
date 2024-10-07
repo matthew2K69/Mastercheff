@@ -1,6 +1,6 @@
-export type WorkoutDetails ={
-    workout_Name: string;
-    duration:number;
-    exercise_Type:string;
-    calories:number;
+export type MenuDetails ={
+    dishName: string;
+    description:string;
+    dishType:string;
+    price:number;
 }
