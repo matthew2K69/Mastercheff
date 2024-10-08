@@ -157,7 +157,7 @@ const styles= StyleSheet.create({
   },
 
   removeItemText:{
-    color:'violet',
+    color:'red',
   },
   totalMenuItems:{
     color:'black',
